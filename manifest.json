@@ -411,6 +411,50 @@
       "src": "LogiTrack/ios/100.png",
       "sizes": "100x100"
     },
+    {
+      "src": "LogiTrack/ios/114.png",
+      "sizes": "114x114"
+    },
+    {
+      "src": "LogiTrack/ios/120.png",
+      "sizes": "120x120"
+    },
+    {
+      "src": "LogiTrack/ios/128.png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "LogiTrack/ios/144.png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "LogiTrack/ios/152.png",
+      "sizes": "152x152"
+    },
+    {
+      "src": "LogiTrack/ios/167.png",
+      "sizes": "167x167"
+    },
+    {
+      "src": "LogiTrack/ios/180.png",
+      "sizes": "180x180"
+    },
+    {
+      "src": "LogiTrack/ios/192.png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "LogiTrack/ios/256.png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "LogiTrack/ios/512.png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "LogiTrack/ios/1024.png",
+      "sizes": "1024x1024"
+    }
   ]
   }
   
